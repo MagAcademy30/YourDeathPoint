@@ -1,0 +1,6 @@
+name: YourDeathPoint
+version: '${project.version}'
+main: org.mg30.yourdeathpoint.YourDeathPoint
+api-version: 1.13
+author: MG30
+description: The plugin shows the coordinates of your death in chat, not visible to other players

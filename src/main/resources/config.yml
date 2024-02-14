@@ -1,0 +1,2 @@
+config:
+  deathMessage: "§7§l[§e§lYourDeathPoint§7§l]§r Your point of death: §e{position}"
